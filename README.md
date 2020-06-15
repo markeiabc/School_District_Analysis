@@ -1,5 +1,7 @@
 # School_District_Analysis
 
+Note to TA: There is a problem with my load from JupyterNotebook to git hud where some of my DataFrames are not populating properly. You will see this in my Challenge file. There are multilpe open issues on githud regarding this. Not something I could solve. 
+
 1) How is the district summary affected?
 
 When comparing the district summary before the 9th grade math and reading scores were dropped for Thomas High School to the updated summary, there is a 1% drop in the percentage of students who passed math, passed reading, and passed both. The average math score only saw a .1 difference and the average reading score remained the same at 81.9. 
